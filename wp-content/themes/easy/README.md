@@ -6,7 +6,7 @@ Before doing anything we need to have a copy of your answers. We use git to see 
 * [Fork](https://help.github.com/articles/fork-a-repo/) the project, then clone yours to work into
 * Create a branch and name it as you want
 * You could whatever software you want to ease the process : smartgit, git kraken, sourcetree, etc
-* Try to make one commit and push it
+* Try to make one commit and push it 
 
 # WordPress is your best Friend
 You are done for the first part, now let's got to the WordPress part !
