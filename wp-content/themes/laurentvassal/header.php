@@ -29,8 +29,8 @@
    <link rel="stylesheet" type="text/css" href="<?=get_theme_file_uri( 'assets/css/style.css' );?>" />
 
    <!-- Javascript libraries -->
-	<script type="text/javascript" src="js/modernizr.js"></script>
-	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="<?=get_theme_file_uri( 'assets/js/modernizr.js' );?>"></script>
+	<script type="text/javascript" src="<?=get_theme_file_uri( 'assets/js/jquery.min.js' );?>"></script>
 		
 	<!--[if IE]>
 		<script src="js/html5shiv.js"></script>
