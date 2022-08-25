@@ -23,10 +23,10 @@
 	<link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
 
 	<!-- styles -->
-	<link rel="stylesheet" type="text/css" href="<?=get_theme_file_uri( 'assets/css/bootstrap.min.css' );?>"/>
-	<link rel="stylesheet" type="text/css" href="<?=get_theme_file_uri( 'assets/css/magnific-popup.min.css' );?>"/>
-	<link rel="stylesheet" type="text/css" href="<?=get_theme_file_uri( 'assets/css/font-awesome.min.css' );?>"/>
-   <link rel="stylesheet" type="text/css" href="<?=get_theme_file_uri( 'assets/css/style.css' );?>" />
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+	<link rel="stylesheet" type="text/css" href="css/magnific-popup.min.css"/>
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+   <link rel="stylesheet" href="<?php echo esc_url( get_stylesheet_uri() ); ?>" type="text/css" />
 
    <!-- Javascript libraries -->
 	<script type="text/javascript" src="js/modernizr.js"></script>
