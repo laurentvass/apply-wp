@@ -38,10 +38,10 @@
 	</div>
 	
 	<!-- javascript -->
-	<script src="<?=get_theme_file_uri( 'assets/js/plugins.js' );?>"></script>
-	<script src="<?=get_theme_file_uri( 'assets/js/smooth-scroll.js' );?>"></script>
-	<script src="<?=get_theme_file_uri( 'assets/js/jquery.countTo.js' );?>"></script>
-	<script src="<?=get_theme_file_uri( 'assets/js/particles.min.js' );?>"></script>
-	<script src="<?=get_theme_file_uri( 'assets/js/main.js' );?>"></script>
+	<script src="<?=get_stylesheet_directory_uri();?>/assets/js/plugins.js"></script>
+	<script src="<?=get_stylesheet_directory_uri();?>/assets/js/smooth-scroll.js"></script>
+	<script src="<?=get_stylesheet_directory_uri();?>/assets/js/jquery.countTo.js"></script>
+	<script src="<?=get_stylesheet_directory_uri();?>/assets/js/particles.min.js"></script>
+	<script src="<?=get_stylesheet_directory_uri();?>/assets/js/main.js"></script>
 </body>
 </html>

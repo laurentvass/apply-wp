@@ -6,7 +6,7 @@
 	<!-- main -->
 	<div id="main">
 		<!-- header -->
-		<div id="header" style="background: url(images/1920x1080.jpg) no-repeat center; background-size: cover; background-position: center;">
+		<div id="header" style="background: url(<?=get_stylesheet_directory_uri();?>/assets/images/1920x1080.jpg) no-repeat center; background-size: cover; background-position: center;">
 		<!-- particles -->
 		<div id="particles" class="particles"></div>
 
@@ -62,21 +62,21 @@
 						<div class="portfolio-block">
 							<ul class="work-list">
 								<li><a href="project.html">
-									<img src="images/380x380.jpg" alt="">
+									<img src="<?=get_stylesheet_directory_uri();?>/assets/images/380x380.jpg" alt="">
 									<div class="gallery-content">
 										<div class="project-title">Project Title</div>
 										<div class="project-client">Client</div>
 									</div>
 								</a></li>
 								<li><a href="project.html">
-									<img src="images/380x380.jpg" alt="">
+									<img src="<?=get_stylesheet_directory_uri();?>/assets/images/380x380.jpg" alt="">
 									<div class="gallery-content">
 										<div class="project-title">Project Title</div>
 										<div class="project-client">Client</div>
 									</div>
 								</a></li>
 								<li><a href="project.html">
-									<img src="images/380x380.jpg" alt="">
+									<img src="<?=get_stylesheet_directory_uri();?>/assets/images/380x380.jpg" alt="">
 									<div class="gallery-content">
 										<div class="project-title">Project Title</div>
 										<div class="project-client">Client</div>
@@ -89,21 +89,21 @@
 						<div class="portfolio-block ">
 							<ul class="work-list">
 								<li><a href="project.html">
-									<img src="images/380x380.jpg" alt="">
+									<img src="<?=get_stylesheet_directory_uri();?>/assets/images/380x380.jpg" alt="">
 									<div class="gallery-content">
 										<div class="project-title">Project Title</div>
 										<div class="project-client">Client</div>
 									</div>
 								</a></li>
 								<li><a href="project.html">
-									<img src="images/380x380.jpg" alt="">
+									<img src="<?=get_stylesheet_directory_uri();?>/assets/images/380x380.jpg" alt="">
 									<div class="gallery-content">
 										<div class="project-title">Project Title</div>
 										<div class="project-client">Client</div>
 									</div>
 								</a></li>
 								<li><a href="project.html">
-									<img src="images/380x380.jpg" alt="">
+									<img src="<?=get_stylesheet_directory_uri();?>/assets/images/380x380.jpg" alt="">
 									<div class="gallery-content">
 										<div class="project-title">Project Title</div>
 										<div class="project-client">Client</div>
