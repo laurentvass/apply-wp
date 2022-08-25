@@ -27,7 +27,7 @@
 	<link rel="stylesheet" type="text/css" href="<?=get_stylesheet_directory_uri();?>/assets/css/bootstrap.min.css"/>
 	<link rel="stylesheet" type="text/css" href="<?=get_stylesheet_directory_uri();?>/assets/css/magnific-popup.min.css"/>
 	<link rel="stylesheet" type="text/css" href="<?=get_stylesheet_directory_uri();?>/assets/css/font-awesome.min.css"/>
-   <link rel="stylesheet" type="text/css" href="<?=get_stylesheet_directory_uri();?>/assets/css/style.css" />
+   <link rel="stylesheet" type="text/css" href="<?=get_stylesheet_directory_uri();?>/style.css" />
 
    <!-- Javascript libraries -->
 	<script type="text/javascript" src="<?=get_stylesheet_directory_uri();?>/assets/js/modernizr.js"></script>
